@@ -23,5 +23,6 @@ You can create your own lines. In this way, you can draw the shapes you want. Yo
 
 # Contact
 ------
-Ali Şahbaz -> ali_sahbaz@outlook.com 
-           -> [MY LINKEDIN ACCOUNT](https://www.linkedin.com/in/ali-%C5%9Fahbaz-6588a8115/)
+Developed by Ali Sahbaz
+-> ali_sahbaz@outlook.com 
+-> [MY LINKEDIN ACCOUNT](https://www.linkedin.com/in/ali-%C5%9Fahbaz-6588a8115/)
