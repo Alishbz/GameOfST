@@ -4,7 +4,7 @@ Simple STL Framework
 
 # Requirements
 ------
-- Visual Studio 2022
+Visual Studio 2022
 
 # Goal
 ------
@@ -13,15 +13,15 @@ Simple STL Framework
 # Inside The Framework
 ------
 ## button_creator_manager
-
+You can create your own buttons and control the properties or _callbacks by creating them according to your wishes. It is an active object and completely safe.
 
 ## key_input_manager
-
+Built on the SDL Framework, it has an "intarface" feature that controls all inputs and outputs. And in this way, you can connect them to any frawork object you want.
 
 ## line_creator_manager
-
+You can create your own lines. In this way, you can draw the shapes you want. You can set the creation condition yourself and have it checked with the _callbacks you want. It is an active object and completely safe.
 
 # Contact
 ------
-Ali Şahbaz -> [I'm an inline-style link](ali_sahbaz@outlook.com)
-           -> [I'm an inline-style link](https://www.linkedin.com/in/ali-%C5%9Fahbaz-6588a8115/)
+Ali Şahbaz -> ali_sahbaz@outlook.com 
+           -> [MY LINKEDIN ACCOUNT](https://www.linkedin.com/in/ali-%C5%9Fahbaz-6588a8115/)
